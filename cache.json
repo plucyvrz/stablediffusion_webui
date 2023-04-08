@@ -123,6 +123,58 @@
         "checkpoint/ArtModel.ckpt": {
             "mtime": 1678652912.0,
             "sha256": "7a79fb4a50687b4872fa48a25910897096fb73844de8cb5ac8aa9c65f643a9b4"
+        },
+        "checkpoint/Realistic_Vision_V2.0.safetensors": {
+            "mtime": 1680880360.0,
+            "sha256": "e6415c48928aedc891237556125e56ebd0bb3d9f0982d469ebb719d1117dfb92"
+        },
+        "checkpoint/meinamix_meinaV8.safetensors": {
+            "mtime": 1680880507.0,
+            "sha256": "30953ab0def62b5d0e90b8f84bd40f0af6048426c5f851535563e28fdee0684a"
+        },
+        "checkpoint/deliberate_v2.safetensors": {
+            "mtime": 1680880520.0,
+            "sha256": "9aba26abdfcd46073e0a1d42027a3a3bcc969f562d58a03637bf0a0ded6586c9"
+        },
+        "checkpoint/Counterfeit-V2.5_pruned.safetensors": {
+            "mtime": 1680050694.0,
+            "sha256": "a074b8864e31b8681e40db3dfde0005df7b5309fd2a2f592a2caee59e4591cae"
+        },
+        "checkpoint/Counterfeit-V2.2.safetensors": {
+            "mtime": 1680052358.0,
+            "sha256": "7d7b896083c4f8ecda83263e3835a785fdd44356ac664db314a37889ee53d09d"
+        },
+        "checkpoint/angie.ckpt": {
+            "mtime": 1680877356.0,
+            "sha256": "b18ddbade2b599a38cb27f1df84cc89203334d15e21162a8ccbb7a57e4cd8279"
+        },
+        "checkpoint/angelchan-v1.5-1100.ckpt": {
+            "mtime": 1680365618.0,
+            "sha256": "1c8a10d71750e318787a596920c08630e14b9af1475ad1be969f8251ae8d71de"
+        },
+        "checkpoint/angelchan-chillout-1100.ckpt": {
+            "mtime": 1680363812.0,
+            "sha256": "3bae67f81fe6d5e143670033eb160ab64eb057d74b4c354521ee163ae24551fe"
+        },
+        "checkpoint/angelchan-10000.ckpt": {
+            "mtime": 1680295547.0,
+            "sha256": "71c0168ef6bd1fa052be3b28d729e78eb736d5f96424ed64915e04bf22874db6"
+        },
+        "checkpoint/angelchan-5000.ckpt": {
+            "mtime": 1680301101.0,
+            "sha256": "f60a6818fb6be42480a3954e62d81feb882c0f12f04859711808b9907836a3ce"
+        },
+        "checkpoint/angelchan-4000.ckpt": {
+            "mtime": 1680305711.0,
+            "sha256": "7344ecb6013bdbb5208682768c705c3937b1d3ba0e0965ba670f936779ed1cf2"
+        },
+        "checkpoint/angelchan-3600.ckpt": {
+            "mtime": 1680311785.0,
+            "sha256": "b82b3c5f36c57b6fa52fa968463bfbd1e92b5f5aa7d2c80d7d93e51386fa7547"
+        },
+        "checkpoint/angelchan-3200.ckpt": {
+            "mtime": 1680312030.0,
+            "sha256": "efed3b3b4c302df84ecd33e68e7ec2c0dd6492e6fb1f60c3939cb19741ea0357"
         }
     }
 }
