@@ -149,11 +149,11 @@
             "sha256": "b18ddbade2b599a38cb27f1df84cc89203334d15e21162a8ccbb7a57e4cd8279"
         },
         "checkpoint/angelchan-v1.5-1100.ckpt": {
-            "mtime": 1680365618.0,
+            "mtime": 1681069876.0,
             "sha256": "1c8a10d71750e318787a596920c08630e14b9af1475ad1be969f8251ae8d71de"
         },
         "checkpoint/angelchan-chillout-1100.ckpt": {
-            "mtime": 1680363812.0,
+            "mtime": 1681069865.0,
             "sha256": "3bae67f81fe6d5e143670033eb160ab64eb057d74b4c354521ee163ae24551fe"
         },
         "checkpoint/angelchan-10000.ckpt": {
@@ -165,16 +165,68 @@
             "sha256": "f60a6818fb6be42480a3954e62d81feb882c0f12f04859711808b9907836a3ce"
         },
         "checkpoint/angelchan-4000.ckpt": {
-            "mtime": 1680305711.0,
+            "mtime": 1681069838.0,
             "sha256": "7344ecb6013bdbb5208682768c705c3937b1d3ba0e0965ba670f936779ed1cf2"
         },
         "checkpoint/angelchan-3600.ckpt": {
-            "mtime": 1680311785.0,
+            "mtime": 1681069829.0,
             "sha256": "b82b3c5f36c57b6fa52fa968463bfbd1e92b5f5aa7d2c80d7d93e51386fa7547"
         },
         "checkpoint/angelchan-3200.ckpt": {
-            "mtime": 1680312030.0,
+            "mtime": 1681069809.0,
             "sha256": "efed3b3b4c302df84ecd33e68e7ec2c0dd6492e6fb1f60c3939cb19741ea0357"
+        },
+        "checkpoint/angie-800.ckpt": {
+            "mtime": 1681071838.0,
+            "sha256": "d2ca481e032971ff2353b0006ddfb8419ebc4cc4f35535354ad43a2bd153d549"
+        },
+        "checkpoint/xlatte-chillout-800.ckpt": {
+            "mtime": 1682105649.0,
+            "sha256": "e8043a23cbe19e9b0dd122bbf01a1d18b1edf0015d7b2bf139663d24537d6c72"
+        },
+        "checkpoint/xlatte-v15-800.ckpt": {
+            "mtime": 1682105618.0,
+            "sha256": "ce4601210283b8ee935041154f6447097544b9d2a05c2dd093152f2c9a31158d"
+        },
+        "checkpoint/xlatte-v15-1600.ckpt": {
+            "mtime": 1682105660.0,
+            "sha256": "1be995b0a50b9868dcfad516fbc892285950dd9d2e6cad4020323c1e84eb9f7f"
+        },
+        "checkpoint/xlatte-chillout-1500.ckpt": {
+            "mtime": 1682105635.0,
+            "sha256": "7bc50326de3175e01a501e4319afd3ebb0fad8237b80f1bc547bc36e3129d26c"
+        },
+        "checkpoint/xxmix9realistic_v25.safetensors": {
+            "mtime": 1683219005.0,
+            "sha256": "7b2b942c0faff8266607ac8d166819fc09d41f8fb3bf0521bab4657a407ddd3c"
+        },
+        "checkpoint/realisian_v20.safetensors": {
+            "mtime": 1683215879.0,
+            "sha256": "b7ebe4b20c0e2d6c235aa5620e2ca3964d0559c643c2c3089b427bd8e3dd04ae"
+        },
+        "checkpoint/profantasy_v2.safetensors": {
+            "mtime": 1683219042.0,
+            "sha256": "20c9fd0a125e55a026466c2b360acc496d55c5970cc76e9d6053d0a4fad52c59"
+        },
+        "checkpoint/halcyon_v20Bergamot.safetensors": {
+            "mtime": 1683215790.0,
+            "sha256": "4b0f91f7d37828e30e0c6ecb60437326c905a158653928ee420bf02ce3214a37"
+        },
+        "checkpoint/ghostmix_v12.safetensors": {
+            "mtime": 1683215825.0,
+            "sha256": "f20c91bd271f0dd16a15a2e2f856602f42913ce1872993b0cbaaaeff9f1bd9b7"
+        },
+        "checkpoint/babes_20.safetensors": {
+            "mtime": 1683219021.0,
+            "sha256": "d319cb2188b7beb32d3fb69b560ca1fdb65fa9ca4468dfe51e5bec6166526f0d"
+        },
+        "checkpoint/CounterfeitV30_v30.safetensors": {
+            "mtime": 1683218976.0,
+            "sha256": "cbfba64e662370f59d4aa2aa69bf16749fce93846ccce20506aee5df01169859"
+        },
+        "checkpoint/cyberrealistic_v21BetaRC.safetensors": {
+            "mtime": 1683215855.0,
+            "sha256": "3107e3bdd47188b7500647c1d58acddad5ea60be4d572da079011a82d2aff297"
         }
     }
 }
