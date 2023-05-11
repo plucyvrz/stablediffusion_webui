@@ -169,7 +169,7 @@
             "sha256": "7344ecb6013bdbb5208682768c705c3937b1d3ba0e0965ba670f936779ed1cf2"
         },
         "checkpoint/angelchan-3600.ckpt": {
-            "mtime": 1681069829.0,
+            "mtime": 1682759433.0,
             "sha256": "b82b3c5f36c57b6fa52fa968463bfbd1e92b5f5aa7d2c80d7d93e51386fa7547"
         },
         "checkpoint/angelchan-3200.ckpt": {
@@ -227,6 +227,30 @@
         "checkpoint/cyberrealistic_v21BetaRC.safetensors": {
             "mtime": 1683215855.0,
             "sha256": "3107e3bdd47188b7500647c1d58acddad5ea60be4d572da079011a82d2aff297"
+        },
+        "checkpoint/lazymixRealAmateur_v20.safetensors": {
+            "mtime": 1683838213.0,
+            "sha256": "2bd89c4fad32b590f03bb6d39ecd9b354232c12e82ac2ca6bb130f868fb61ef3"
+        },
+        "checkpoint/meinaunreal_v3.safetensors": {
+            "mtime": 1683838249.0,
+            "sha256": "d1c96253ed379ef9bfda2ea5080d4f2460e1159f805c7ab35f3728f3af6568d3"
+        },
+        "checkpoint/AnythingV5_v5PrtRE.safetensors": {
+            "mtime": 1683838226.0,
+            "sha256": "7f96a1a9ca9b3a3242a9ae95d19284f0d2da8d5282b42d2d974398bf7663a252"
+        },
+        "checkpoint/etherRealMix_etherRealMix2.safetensors": {
+            "mtime": 1683838261.0,
+            "sha256": "96e52f42687998699612ef80f90d2c7bb9a0e73b3bea8dfa5f9987aebda0b629"
+        },
+        "checkpoint/braBeautifulRealistic_brav5.safetensors": {
+            "mtime": 1683680410.0,
+            "sha256": "ac68270450051ac4da9577c622cd45774d19d2c1adf2bda339515daee141e5bc"
+        },
+        "checkpoint/darksun_v20.safetensors": {
+            "mtime": 1683680481.0,
+            "sha256": "9a4d193dfcc619530f88f42f860ce2f35b31259cc73d5f69ec2d103b78767ebe"
         }
     }
 }
