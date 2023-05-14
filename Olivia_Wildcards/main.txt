@@ -1,1 +1,15 @@
-__main__
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/Body_pose.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/body_type.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_asia_tradition.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_female_legs.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_female_top.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_female_top_office.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_male_legs.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_male_top_office.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/clothing_traditional.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/hair_color_colored.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/hair_colors_natural.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/haircut_female.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/haircut_male.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/shoes_female.txt
+https://raw.githubusercontent.com/plucyvrz/stablediffusion_webui/master/Olivia_Wildcards/shoes_male.txt
